@@ -1,6 +1,6 @@
 # Google Search Clone
 
-Projeto WhatsApp Web Clone do curso: HTML e CSS: Técnicas Avançadas - Prof. Matheus Battisti
+Projeto Google Search Clone do curso: HTML e CSS: Técnicas Avançadas - Prof. Matheus Battisti
 
 💡 Acesso ao curso:
 
